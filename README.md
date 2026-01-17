@@ -1,4 +1,3 @@
-
 # CS Fundamentals From Scratch
 Learning core computer science fundamentals through simple Python programs.
 
