@@ -16,3 +16,5 @@ print("Addition result:", result)
 
 print("Is 10 even?", is_even(10))
 print("Is 7 even?", is_even(7))
+
+
